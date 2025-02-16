@@ -1,2 +1,2 @@
 console.log("hi");
-console.log("config3");
+console.log("config1");

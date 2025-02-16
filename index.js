@@ -1,2 +1,2 @@
 console.log("hi");
-console.log("index3");
+console.log("index1");
